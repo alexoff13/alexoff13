@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @alexoff13
-- 👀 I’m interested in C#, python
-- 🌱 I’m currently learning python
 - 📫 How to reach me telegram: @alexoff13
 
 <!---
